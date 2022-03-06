@@ -1,0 +1,6 @@
+Network_unavailable,Network_connectivity_failure,From_router?s_ARP_cache_MAC_address_associated_to_the_conflicting_IP_changes_frequently,No_access_to_shared_folders_files_or_printers_Cannot_locate_other_computers_in_the_Workgroup,Error_Workgroup_name_is_not_accessible_Error _You_may_not_have_permission_to_use_this_network_resources,Every_other_resource_on_the_network_is_working_but_still_no_internet,Error_The_Network_Path_Cannot_Be_Found,Error _IP_address_could_not_be_found,Error_DNS_Name_does_not_exist_Problem,No_internet_when_browser_is_launched_only_for_the_affected_workstation,Problem
+1,1,1,0,0,0,0,0,0,0,Duplicate IP Address
+1,1,0,0,0,0,0,0,0,1,Single workstation unable to connect to the network
+0,0,0,1,1,0,0,0,0,0,File or Printer share problem
+1,1,0,0,0,0,0,0,0,0,Bad ISP Service or Router
+1,1,0,0,0,0,1,1,0,0,DNS Problem
